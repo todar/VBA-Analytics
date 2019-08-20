@@ -44,4 +44,4 @@ End Sub
 
 This will all be collected in an xml file at whatever the `filePath` constant is referenced to within the class. Set this first to make sure it is where you intend for it to be saved.
 
-![xml example](./example.png)
+![xml example](./xmlExample.png)
